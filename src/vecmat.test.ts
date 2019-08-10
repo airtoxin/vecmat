@@ -1,4 +1,4 @@
-import DummyClass from "../src/vecmat"
+import DummyClass from "./vecmat"
 
 /**
  * Dummy test
